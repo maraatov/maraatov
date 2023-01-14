@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizavant&label=Profile%20views&color=0e75b6&style=flat" alt="marat" /> </p>
 
-- 🌱 I’m a confident developer working with **React, Redux/Redux-Toolkit, JS, TS, Node.JS, axios, CSS3, HTML5.**
+- 🌱 I’m a confident developer working with **React, Redux/Redux-Toolkit, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
 
 - 👯 I’m looking to collaborate with **some interesting companies**
 
