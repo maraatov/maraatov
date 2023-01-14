@@ -21,4 +21,4 @@
 
 
 ![photo_5339491802266322049_x](https://user-images.githubusercontent.com/103638511/212484018-b623ba0f-c2ba-425d-8ed1-5127d373a86e.jpg)
-<a href="https://www.codewars.com/users/AldiKosMan"><h3 align="left">Codewars</h3></a>
+
