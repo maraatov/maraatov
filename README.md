@@ -1,4 +1,3 @@
-![photo_5339491802266322049_x](https://user-images.githubusercontent.com/103638511/212483881-073ee37f-3423-4c5b-b1e3-e274a807c459.jpg)
 <h1 align="center">Hi 👋, I'm Marat Aldiyar</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan, Almaty</h3>
 
@@ -11,7 +10,6 @@
 - 👯 I’m looking to collaborate with **some interesting companies**
 
 - 📫 How to reach me: **http://aldiyar-marat.kz/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://t.me/maraatovrep" target="_blank">Telegram</a>
 </p>
@@ -22,4 +20,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-
+![photo_5339491802266322049_x](https://user-images.githubusercontent.com/103638511/212484018-b623ba0f-c2ba-425d-8ed1-5127d373a86e.jpg)
+<a href="https://www.codewars.com/users/AldiKosMan"><h3 align="left">Codewars</h3></a>
