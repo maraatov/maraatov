@@ -8,7 +8,7 @@
 - 🌱 I’m a confident developer working with **React, Vue, Redux/Redux-Toolkit, Vuex, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://t.me/maraatovrep" target="_blank">Telegram</a>
+<p align="left"> <a href="https://t.me/marat_ald" target="_blank">Telegram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
