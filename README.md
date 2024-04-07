@@ -7,9 +7,6 @@
 
 - 🌱 I’m a confident developer working with **React, Vue, Redux/Redux-Toolkit, Vuex, JS, TS, Node.JS, Axios, SCSS, CSS3, HTML5.**
 
-- 👯 I’m looking to collaborate with **some interesting companies**
-
-- 📫 How to reach me: **http://aldiyar-marat.kz/**
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://t.me/maraatovrep" target="_blank">Telegram</a>
 </p>
